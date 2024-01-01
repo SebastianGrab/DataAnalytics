@@ -1,0 +1,680 @@
+Geschlecht max. - Cluster 0: 0.0
+Geschlecht min. - Cluster 0: 0.0
+Geschlecht med. - Cluster 0: 0.0
+Geschlecht mean - Cluster 0: 0.0
+
+Geschlecht max. - Cluster 1: 1.0
+Geschlecht min. - Cluster 1: 0.0
+Geschlecht med. - Cluster 1: 1.0
+Geschlecht mean - Cluster 1: 0.8143307461266245
+
+Geschlecht max. - Cluster 2: 1.0
+Geschlecht min. - Cluster 2: 0.0
+Geschlecht med. - Cluster 2: 1.0
+Geschlecht mean - Cluster 2: 0.9240699942466638
+
+Geschlecht max. - Cluster 3: nan
+Geschlecht min. - Cluster 3: nan
+Geschlecht med. - Cluster 3: nan
+Geschlecht mean - Cluster 3: nan
+
+Geschlecht max. - Cluster 4: nan
+Geschlecht min. - Cluster 4: nan
+Geschlecht med. - Cluster 4: nan
+Geschlecht mean - Cluster 4: nan
+
+Geschlecht max. - Cluster 5: nan
+Geschlecht min. - Cluster 5: nan
+Geschlecht med. - Cluster 5: nan
+Geschlecht mean - Cluster 5: nan
+
+-----------------------------------
+Alter max. - Cluster 0: 1.0
+Alter min. - Cluster 0: 0.0
+Alter med. - Cluster 0: 0.46153846153846156
+Alter mean - Cluster 0: 0.49669317397655766
+
+Alter max. - Cluster 1: 1.0
+Alter min. - Cluster 1: 0.0
+Alter med. - Cluster 1: 0.3846153846153846
+Alter mean - Cluster 1: 0.3942827154308998
+
+Alter max. - Cluster 2: 1.0
+Alter min. - Cluster 2: 0.0
+Alter med. - Cluster 2: 0.3076923076923077
+Alter mean - Cluster 2: 0.3568975449193795
+
+Alter max. - Cluster 3: nan
+Alter min. - Cluster 3: nan
+Alter med. - Cluster 3: nan
+Alter mean - Cluster 3: nan
+
+Alter max. - Cluster 4: nan
+Alter min. - Cluster 4: nan
+Alter med. - Cluster 4: nan
+Alter mean - Cluster 4: nan
+
+Alter max. - Cluster 5: nan
+Alter min. - Cluster 5: nan
+Alter med. - Cluster 5: nan
+Alter mean - Cluster 5: nan
+
+-----------------------------------
+Größe max. - Cluster 0: 0.75
+Größe min. - Cluster 0: 0.0
+Größe med. - Cluster 0: 0.41666666666666696
+Größe mean - Cluster 0: 0.4037615257527423
+
+Größe max. - Cluster 1: 1.0
+Größe min. - Cluster 1: 0.08333333333333348
+Größe med. - Cluster 1: 0.5833333333333335
+Größe mean - Cluster 1: 0.6069250734363593
+
+Größe max. - Cluster 2: 1.0
+Größe min. - Cluster 2: 0.08333333333333348
+Größe med. - Cluster 2: 0.666666666666667
+Größe mean - Cluster 2: 0.6394513593621126
+
+Größe max. - Cluster 3: nan
+Größe min. - Cluster 3: nan
+Größe med. - Cluster 3: nan
+Größe mean - Cluster 3: nan
+
+Größe max. - Cluster 4: nan
+Größe min. - Cluster 4: nan
+Größe med. - Cluster 4: nan
+Größe mean - Cluster 4: nan
+
+Größe max. - Cluster 5: nan
+Größe min. - Cluster 5: nan
+Größe med. - Cluster 5: nan
+Größe mean - Cluster 5: nan
+
+-----------------------------------
+Gewicht max. - Cluster 0: 0.8260869565217391
+Gewicht min. - Cluster 0: 0.0
+Gewicht med. - Cluster 0: 0.26086956521739135
+Gewicht mean - Cluster 0: 0.26774487298710464
+
+Gewicht max. - Cluster 1: 0.9565217391304349
+Gewicht min. - Cluster 1: 0.0
+Gewicht med. - Cluster 1: 0.34782608695652173
+Gewicht mean - Cluster 1: 0.3646927094040631
+
+Gewicht max. - Cluster 2: 1.0
+Gewicht min. - Cluster 2: 0.043478260869565216
+Gewicht med. - Cluster 2: 0.39130434782608703
+Gewicht mean - Cluster 2: 0.38682349744679173
+
+Gewicht max. - Cluster 3: nan
+Gewicht min. - Cluster 3: nan
+Gewicht med. - Cluster 3: nan
+Gewicht mean - Cluster 3: nan
+
+Gewicht max. - Cluster 4: nan
+Gewicht min. - Cluster 4: nan
+Gewicht med. - Cluster 4: nan
+Gewicht mean - Cluster 4: nan
+
+Gewicht max. - Cluster 5: nan
+Gewicht min. - Cluster 5: nan
+Gewicht med. - Cluster 5: nan
+Gewicht mean - Cluster 5: nan
+
+-----------------------------------
+Hüftumfang max. - Cluster 0: 1.0000000000000002
+Hüftumfang min. - Cluster 0: 0.0
+Hüftumfang med. - Cluster 0: 0.4890148830616584
+Hüftumfang mean - Cluster 0: 0.494461300256889
+
+Hüftumfang max. - Cluster 1: 0.9355067328136074
+Hüftumfang min. - Cluster 1: 0.1700921332388377
+Hüftumfang med. - Cluster 1: 0.5315379163713678
+Hüftumfang mean - Cluster 1: 0.5297659160710512
+
+Hüftumfang max. - Cluster 2: 0.9709425939050319
+Hüftumfang min. - Cluster 2: 0.1700921332388377
+Hüftumfang med. - Cluster 2: 0.5386250885896527
+Hüftumfang mean - Cluster 2: 0.539903623222774
+
+Hüftumfang max. - Cluster 3: nan
+Hüftumfang min. - Cluster 3: nan
+Hüftumfang med. - Cluster 3: nan
+Hüftumfang mean - Cluster 3: nan
+
+Hüftumfang max. - Cluster 4: nan
+Hüftumfang min. - Cluster 4: nan
+Hüftumfang med. - Cluster 4: nan
+Hüftumfang mean - Cluster 4: nan
+
+Hüftumfang max. - Cluster 5: nan
+Hüftumfang min. - Cluster 5: nan
+Hüftumfang med. - Cluster 5: nan
+Hüftumfang mean - Cluster 5: nan
+
+-----------------------------------
+Systolischer Blutdruck max. - Cluster 0: 0.9999999999999999
+Systolischer Blutdruck min. - Cluster 0: 0.0
+Systolischer Blutdruck med. - Cluster 0: 0.25728155339805825
+Systolischer Blutdruck mean - Cluster 0: 0.26368991903876704
+
+Systolischer Blutdruck max. - Cluster 1: 0.9029126213592232
+Systolischer Blutdruck min. - Cluster 1: 0.014563106796116498
+Systolischer Blutdruck med. - Cluster 1: 0.2621359223300971
+Systolischer Blutdruck mean - Cluster 1: 0.2711283976516405
+
+Systolischer Blutdruck max. - Cluster 2: 0.9126213592233009
+Systolischer Blutdruck min. - Cluster 2: 0.03883495145631066
+Systolischer Blutdruck med. - Cluster 2: 0.2669902912621359
+Systolischer Blutdruck mean - Cluster 2: 0.27465409479367353
+
+Systolischer Blutdruck max. - Cluster 3: nan
+Systolischer Blutdruck min. - Cluster 3: nan
+Systolischer Blutdruck med. - Cluster 3: nan
+Systolischer Blutdruck mean - Cluster 3: nan
+
+Systolischer Blutdruck max. - Cluster 4: nan
+Systolischer Blutdruck min. - Cluster 4: nan
+Systolischer Blutdruck med. - Cluster 4: nan
+Systolischer Blutdruck mean - Cluster 4: nan
+
+Systolischer Blutdruck max. - Cluster 5: nan
+Systolischer Blutdruck min. - Cluster 5: nan
+Systolischer Blutdruck med. - Cluster 5: nan
+Systolischer Blutdruck mean - Cluster 5: nan
+
+-----------------------------------
+Diastolischer Blutdruck max. - Cluster 0: 0.9673202614379085
+Diastolischer Blutdruck min. - Cluster 0: 0.0
+Diastolischer Blutdruck med. - Cluster 0: 0.27450980392156865
+Diastolischer Blutdruck mean - Cluster 0: 0.27894091815043326
+
+Diastolischer Blutdruck max. - Cluster 1: 1.0000000000000002
+Diastolischer Blutdruck min. - Cluster 1: 0.01307189542483661
+Diastolischer Blutdruck med. - Cluster 1: 0.2941176470588235
+Diastolischer Blutdruck mean - Cluster 1: 0.2908475189787125
+
+Diastolischer Blutdruck max. - Cluster 2: 0.9738562091503268
+Diastolischer Blutdruck min. - Cluster 2: 0.052287581699346414
+Diastolischer Blutdruck med. - Cluster 2: 0.30065359477124176
+Diastolischer Blutdruck mean - Cluster 2: 0.298094660984074
+
+Diastolischer Blutdruck max. - Cluster 3: nan
+Diastolischer Blutdruck min. - Cluster 3: nan
+Diastolischer Blutdruck med. - Cluster 3: nan
+Diastolischer Blutdruck mean - Cluster 3: nan
+
+Diastolischer Blutdruck max. - Cluster 4: nan
+Diastolischer Blutdruck min. - Cluster 4: nan
+Diastolischer Blutdruck med. - Cluster 4: nan
+Diastolischer Blutdruck mean - Cluster 4: nan
+
+Diastolischer Blutdruck max. - Cluster 5: nan
+Diastolischer Blutdruck min. - Cluster 5: nan
+Diastolischer Blutdruck med. - Cluster 5: nan
+Diastolischer Blutdruck mean - Cluster 5: nan
+
+-----------------------------------
+Nüchterner Blutzucker max. - Cluster 0: 0.9177750906892382
+Nüchterner Blutzucker min. - Cluster 0: 0.013301088270858522
+Nüchterner Blutzucker med. - Cluster 0: 0.0834340991535671
+Nüchterner Blutzucker mean - Cluster 0: 0.08895235299613694
+
+Nüchterner Blutzucker max. - Cluster 1: 1.0
+Nüchterner Blutzucker min. - Cluster 1: 0.0
+Nüchterner Blutzucker med. - Cluster 1: 0.08585247883917774
+Nüchterner Blutzucker mean - Cluster 1: 0.09171829794983821
+
+Nüchterner Blutzucker max. - Cluster 2: 0.9371221281741233
+Nüchterner Blutzucker min. - Cluster 2: 0.0060459492140266
+Nüchterner Blutzucker med. - Cluster 2: 0.08706166868198306
+Nüchterner Blutzucker mean - Cluster 2: 0.09411165908856456
+
+Nüchterner Blutzucker max. - Cluster 3: nan
+Nüchterner Blutzucker min. - Cluster 3: nan
+Nüchterner Blutzucker med. - Cluster 3: nan
+Nüchterner Blutzucker mean - Cluster 3: nan
+
+Nüchterner Blutzucker max. - Cluster 4: nan
+Nüchterner Blutzucker min. - Cluster 4: nan
+Nüchterner Blutzucker med. - Cluster 4: nan
+Nüchterner Blutzucker mean - Cluster 4: nan
+
+Nüchterner Blutzucker max. - Cluster 5: nan
+Nüchterner Blutzucker min. - Cluster 5: nan
+Nüchterner Blutzucker med. - Cluster 5: nan
+Nüchterner Blutzucker mean - Cluster 5: nan
+
+-----------------------------------
+Totale Cholesterin max. - Cluster 0: 0.9360414866032843
+Totale Cholesterin min. - Cluster 0: 0.00648228176318064
+Totale Cholesterin med. - Cluster 0: 0.07173725151253241
+Totale Cholesterin mean - Cluster 0: 0.07289044014416064
+
+Totale Cholesterin max. - Cluster 1: 1.0
+Totale Cholesterin min. - Cluster 1: 0.010371650821089023
+Totale Cholesterin med. - Cluster 1: 0.06914433880726015
+Totale Cholesterin mean - Cluster 1: 0.07003832000661894
+
+Totale Cholesterin max. - Cluster 2: 0.865600691443388
+Totale Cholesterin min. - Cluster 2: 0.0
+Totale Cholesterin med. - Cluster 2: 0.07130509939498703
+Totale Cholesterin mean - Cluster 2: 0.07201188840895974
+
+Totale Cholesterin max. - Cluster 3: nan
+Totale Cholesterin min. - Cluster 3: nan
+Totale Cholesterin med. - Cluster 3: nan
+Totale Cholesterin mean - Cluster 3: nan
+
+Totale Cholesterin max. - Cluster 4: nan
+Totale Cholesterin min. - Cluster 4: nan
+Totale Cholesterin med. - Cluster 4: nan
+Totale Cholesterin mean - Cluster 4: nan
+
+Totale Cholesterin max. - Cluster 5: nan
+Totale Cholesterin min. - Cluster 5: nan
+Totale Cholesterin med. - Cluster 5: nan
+Totale Cholesterin mean - Cluster 5: nan
+
+-----------------------------------
+HDL_Cholesterin max. - Cluster 0: 0.8540772532188842
+HDL_Cholesterin min. - Cluster 0: 0.0
+HDL_Cholesterin med. - Cluster 0: 0.06223175965665236
+HDL_Cholesterin mean - Cluster 0: 0.06360074621894082
+
+HDL_Cholesterin max. - Cluster 1: 1.0
+HDL_Cholesterin min. - Cluster 1: 0.0
+HDL_Cholesterin med. - Cluster 1: 0.05686695278969957
+HDL_Cholesterin mean - Cluster 1: 0.058943356560887436
+
+HDL_Cholesterin max. - Cluster 2: 0.7467811158798283
+HDL_Cholesterin min. - Cluster 2: 0.0
+HDL_Cholesterin med. - Cluster 2: 0.0536480686695279
+HDL_Cholesterin mean - Cluster 2: 0.05572950502698731
+
+HDL_Cholesterin max. - Cluster 3: nan
+HDL_Cholesterin min. - Cluster 3: nan
+HDL_Cholesterin med. - Cluster 3: nan
+HDL_Cholesterin mean - Cluster 3: nan
+
+HDL_Cholesterin max. - Cluster 4: nan
+HDL_Cholesterin min. - Cluster 4: nan
+HDL_Cholesterin med. - Cluster 4: nan
+HDL_Cholesterin mean - Cluster 4: nan
+
+HDL_Cholesterin max. - Cluster 5: nan
+HDL_Cholesterin min. - Cluster 5: nan
+HDL_Cholesterin med. - Cluster 5: nan
+HDL_Cholesterin mean - Cluster 5: nan
+
+-----------------------------------
+LDL_Cholesterin max. - Cluster 0: 0.9378606302707502
+LDL_Cholesterin min. - Cluster 0: 0.0
+LDL_Cholesterin med. - Cluster 0: 0.05015534842432313
+LDL_Cholesterin mean - Cluster 0: 0.0510141125791879
+
+LDL_Cholesterin max. - Cluster 1: 1.0
+LDL_Cholesterin min. - Cluster 1: 0.0
+LDL_Cholesterin med. - Cluster 1: 0.04793608521970706
+LDL_Cholesterin mean - Cluster 1: 0.0487124830597518
+
+LDL_Cholesterin max. - Cluster 2: 0.8575233022636485
+LDL_Cholesterin min. - Cluster 2: 0.0
+LDL_Cholesterin med. - Cluster 2: 0.048823790501553485
+LDL_Cholesterin mean - Cluster 2: 0.04939787845002346
+
+LDL_Cholesterin max. - Cluster 3: nan
+LDL_Cholesterin min. - Cluster 3: nan
+LDL_Cholesterin med. - Cluster 3: nan
+LDL_Cholesterin mean - Cluster 3: nan
+
+LDL_Cholesterin max. - Cluster 4: nan
+LDL_Cholesterin min. - Cluster 4: nan
+LDL_Cholesterin med. - Cluster 4: nan
+LDL_Cholesterin mean - Cluster 4: nan
+
+LDL_Cholesterin max. - Cluster 5: nan
+LDL_Cholesterin min. - Cluster 5: nan
+LDL_Cholesterin med. - Cluster 5: nan
+LDL_Cholesterin mean - Cluster 5: nan
+
+-----------------------------------
+Triglycerid max. - Cluster 0: 0.8792134831460674
+Triglycerid min. - Cluster 0: 0.0
+Triglycerid med. - Cluster 0: 0.033356741573033706
+Triglycerid mean - Cluster 0: 0.03919955017659696
+
+Triglycerid max. - Cluster 1: 1.0
+Triglycerid min. - Cluster 1: 0.0
+Triglycerid med. - Cluster 1: 0.03686797752808989
+Triglycerid mean - Cluster 1: 0.045710559806587114
+
+Triglycerid max. - Cluster 2: 0.973314606741573
+Triglycerid min. - Cluster 2: 0.0
+Triglycerid med. - Cluster 2: 0.04669943820224719
+Triglycerid mean - Cluster 2: 0.05842890167723389
+
+Triglycerid max. - Cluster 3: nan
+Triglycerid min. - Cluster 3: nan
+Triglycerid med. - Cluster 3: nan
+Triglycerid mean - Cluster 3: nan
+
+Triglycerid max. - Cluster 4: nan
+Triglycerid min. - Cluster 4: nan
+Triglycerid med. - Cluster 4: nan
+Triglycerid mean - Cluster 4: nan
+
+Triglycerid max. - Cluster 5: nan
+Triglycerid min. - Cluster 5: nan
+Triglycerid med. - Cluster 5: nan
+Triglycerid mean - Cluster 5: nan
+
+-----------------------------------
+Hämoglobin max. - Cluster 0: 0.9999999999999999
+Hämoglobin min. - Cluster 0: 0.0
+Hämoglobin med. - Cluster 0: 0.5083333333333333
+Hämoglobin mean - Cluster 0: 0.5037852886969119
+
+Hämoglobin max. - Cluster 1: 0.9999999999999999
+Hämoglobin min. - Cluster 1: 0.0
+Hämoglobin med. - Cluster 1: 0.5791666666666667
+Hämoglobin mean - Cluster 1: 0.5717660948708545
+
+Hämoglobin max. - Cluster 2: 0.9541666666666666
+Hämoglobin min. - Cluster 2: 0.12916666666666665
+Hämoglobin med. - Cluster 2: 0.6
+Hämoglobin mean - Cluster 2: 0.5954605943243103
+
+Hämoglobin max. - Cluster 3: nan
+Hämoglobin min. - Cluster 3: nan
+Hämoglobin med. - Cluster 3: nan
+Hämoglobin mean - Cluster 3: nan
+
+Hämoglobin max. - Cluster 4: nan
+Hämoglobin min. - Cluster 4: nan
+Hämoglobin med. - Cluster 4: nan
+Hämoglobin mean - Cluster 4: nan
+
+Hämoglobin max. - Cluster 5: nan
+Hämoglobin min. - Cluster 5: nan
+Hämoglobin med. - Cluster 5: nan
+Hämoglobin mean - Cluster 5: nan
+
+-----------------------------------
+SGOT_AST max. - Cluster 0: 0.9709418837675351
+SGOT_AST min. - Cluster 0: 0.0
+SGOT_AST med. - Cluster 0: 0.02104208416833667
+SGOT_AST mean - Cluster 0: 0.023327056407975128
+
+SGOT_AST max. - Cluster 1: 0.9999999999999999
+SGOT_AST min. - Cluster 1: 0.0
+SGOT_AST med. - Cluster 1: 0.022044088176352703
+SGOT_AST mean - Cluster 1: 0.025459025126908487
+
+SGOT_AST max. - Cluster 2: 0.9589178356713427
+SGOT_AST min. - Cluster 2: 0.0
+SGOT_AST med. - Cluster 2: 0.023046092184368733
+SGOT_AST mean - Cluster 2: 0.026695617917282158
+
+SGOT_AST max. - Cluster 3: nan
+SGOT_AST min. - Cluster 3: nan
+SGOT_AST med. - Cluster 3: nan
+SGOT_AST mean - Cluster 3: nan
+
+SGOT_AST max. - Cluster 4: nan
+SGOT_AST min. - Cluster 4: nan
+SGOT_AST med. - Cluster 4: nan
+SGOT_AST mean - Cluster 4: nan
+
+SGOT_AST max. - Cluster 5: nan
+SGOT_AST min. - Cluster 5: nan
+SGOT_AST med. - Cluster 5: nan
+SGOT_AST mean - Cluster 5: nan
+
+-----------------------------------
+SGOT_ALT max. - Cluster 0: 0.9869739478957915
+SGOT_ALT min. - Cluster 0: 0.0
+SGOT_ALT med. - Cluster 0: 0.01603206412825651
+SGOT_ALT mean - Cluster 0: 0.02009486300839416
+
+SGOT_ALT max. - Cluster 1: 0.9999999999999999
+SGOT_ALT min. - Cluster 1: 0.0
+SGOT_ALT med. - Cluster 1: 0.02104208416833667
+SGOT_ALT mean - Cluster 1: 0.02641496948953865
+
+SGOT_ALT max. - Cluster 2: 0.9999999999999999
+SGOT_ALT min. - Cluster 2: 0.0
+SGOT_ALT med. - Cluster 2: 0.023046092184368733
+SGOT_ALT mean - Cluster 2: 0.029468546567898286
+
+SGOT_ALT max. - Cluster 3: nan
+SGOT_ALT min. - Cluster 3: nan
+SGOT_ALT med. - Cluster 3: nan
+SGOT_ALT mean - Cluster 3: nan
+
+SGOT_ALT max. - Cluster 4: nan
+SGOT_ALT min. - Cluster 4: nan
+SGOT_ALT med. - Cluster 4: nan
+SGOT_ALT mean - Cluster 4: nan
+
+SGOT_ALT max. - Cluster 5: nan
+SGOT_ALT min. - Cluster 5: nan
+SGOT_ALT med. - Cluster 5: nan
+SGOT_ALT mean - Cluster 5: nan
+
+-----------------------------------
+gamma_GTP max. - Cluster 0: 0.995987963891675
+gamma_GTP min. - Cluster 0: 0.0
+gamma_GTP med. - Cluster 0: 0.0160481444332999
+gamma_GTP mean - Cluster 0: 0.022581057558098323
+
+gamma_GTP max. - Cluster 1: 0.9999999999999999
+gamma_GTP min. - Cluster 1: 0.0
+gamma_GTP med. - Cluster 1: 0.025075225677031094
+gamma_GTP mean - Cluster 1: 0.038382917211503075
+
+gamma_GTP max. - Cluster 2: 0.9949849548645937
+gamma_GTP min. - Cluster 2: 0.0
+gamma_GTP med. - Cluster 2: 0.03510531594784353
+gamma_GTP mean - Cluster 2: 0.054932263779818746
+
+gamma_GTP max. - Cluster 3: nan
+gamma_GTP min. - Cluster 3: nan
+gamma_GTP med. - Cluster 3: nan
+gamma_GTP mean - Cluster 3: nan
+
+gamma_GTP max. - Cluster 4: nan
+gamma_GTP min. - Cluster 4: nan
+gamma_GTP med. - Cluster 4: nan
+gamma_GTP mean - Cluster 4: nan
+
+gamma_GTP max. - Cluster 5: nan
+gamma_GTP min. - Cluster 5: nan
+gamma_GTP med. - Cluster 5: nan
+gamma_GTP mean - Cluster 5: nan
+
+-----------------------------------
+Trinker max. - Cluster 0: 1.0
+Trinker min. - Cluster 0: 0.0
+Trinker med. - Cluster 0: 0.0
+Trinker mean - Cluster 0: 0.162012653349605
+
+Trinker max. - Cluster 1: 1.0
+Trinker min. - Cluster 1: 0.0
+Trinker med. - Cluster 1: 1.0
+Trinker mean - Cluster 1: 0.677166661710332
+
+Trinker max. - Cluster 2: 1.0
+Trinker min. - Cluster 2: 0.0
+Trinker med. - Cluster 2: 1.0
+Trinker mean - Cluster 2: 0.755071589277278
+
+Trinker max. - Cluster 3: nan
+Trinker min. - Cluster 3: nan
+Trinker med. - Cluster 3: nan
+Trinker mean - Cluster 3: nan
+
+Trinker max. - Cluster 4: nan
+Trinker min. - Cluster 4: nan
+Trinker med. - Cluster 4: nan
+Trinker mean - Cluster 4: nan
+
+Trinker max. - Cluster 5: nan
+Trinker min. - Cluster 5: nan
+Trinker med. - Cluster 5: nan
+Trinker mean - Cluster 5: nan
+
+-----------------------------------
+Body-Mass-Index max. - Cluster 0: 0.9509331727874774
+Body-Mass-Index min. - Cluster 0: 0.0
+Body-Mass-Index med. - Cluster 0: 0.31306441902468396
+Body-Mass-Index mean - Cluster 0: 0.33034148512289724
+
+Body-Mass-Index max. - Cluster 1: 0.9780252859723059
+Body-Mass-Index min. - Cluster 1: 0.008127633955448521
+Body-Mass-Index med. - Cluster 1: 0.34286574352799515
+Body-Mass-Index mean - Cluster 1: 0.34841259521078666
+
+Body-Mass-Index max. - Cluster 2: 1.0
+Body-Mass-Index min. - Cluster 2: 0.03552077062010839
+Body-Mass-Index med. - Cluster 2: 0.3531005418422637
+Body-Mass-Index mean - Cluster 2: 0.35944176015215
+
+Body-Mass-Index max. - Cluster 3: nan
+Body-Mass-Index min. - Cluster 3: nan
+Body-Mass-Index med. - Cluster 3: nan
+Body-Mass-Index mean - Cluster 3: nan
+
+Body-Mass-Index max. - Cluster 4: nan
+Body-Mass-Index min. - Cluster 4: nan
+Body-Mass-Index med. - Cluster 4: nan
+Body-Mass-Index mean - Cluster 4: nan
+
+Body-Mass-Index max. - Cluster 5: nan
+Body-Mass-Index min. - Cluster 5: nan
+Body-Mass-Index med. - Cluster 5: nan
+Body-Mass-Index mean - Cluster 5: nan
+
+-----------------------------------
+Raucher_nie max. - Cluster 0: 1.0
+Raucher_nie min. - Cluster 0: 0.0
+Raucher_nie med. - Cluster 0: 1.0
+Raucher_nie mean - Cluster 0: 0.9999598561243497
+
+Raucher_nie max. - Cluster 1: 1.0
+Raucher_nie min. - Cluster 1: 0.0
+Raucher_nie med. - Cluster 1: 1.0
+Raucher_nie mean - Cluster 1: 0.5666577452642222
+
+Raucher_nie max. - Cluster 2: 0.0
+Raucher_nie min. - Cluster 2: 0.0
+Raucher_nie med. - Cluster 2: 0.0
+Raucher_nie mean - Cluster 2: 0.0
+
+Raucher_nie max. - Cluster 3: nan
+Raucher_nie min. - Cluster 3: nan
+Raucher_nie med. - Cluster 3: nan
+Raucher_nie mean - Cluster 3: nan
+
+Raucher_nie max. - Cluster 4: nan
+Raucher_nie min. - Cluster 4: nan
+Raucher_nie med. - Cluster 4: nan
+Raucher_nie mean - Cluster 4: nan
+
+Raucher_nie max. - Cluster 5: nan
+Raucher_nie min. - Cluster 5: nan
+Raucher_nie med. - Cluster 5: nan
+Raucher_nie mean - Cluster 5: nan
+
+-----------------------------------
+Raucher_ehem max. - Cluster 0: 1.0
+Raucher_ehem min. - Cluster 0: 0.0
+Raucher_ehem med. - Cluster 0: 0.0
+Raucher_ehem mean - Cluster 0: 4.014387565033079e-05
+
+Raucher_ehem max. - Cluster 1: 1.0
+Raucher_ehem min. - Cluster 1: 0.0
+Raucher_ehem med. - Cluster 1: 0.0
+Raucher_ehem mean - Cluster 1: 0.4333422547357778
+
+Raucher_ehem max. - Cluster 2: 0.0
+Raucher_ehem min. - Cluster 2: 0.0
+Raucher_ehem med. - Cluster 2: 0.0
+Raucher_ehem mean - Cluster 2: 0.0
+
+Raucher_ehem max. - Cluster 3: nan
+Raucher_ehem min. - Cluster 3: nan
+Raucher_ehem med. - Cluster 3: nan
+Raucher_ehem mean - Cluster 3: nan
+
+Raucher_ehem max. - Cluster 4: nan
+Raucher_ehem min. - Cluster 4: nan
+Raucher_ehem med. - Cluster 4: nan
+Raucher_ehem mean - Cluster 4: nan
+
+Raucher_ehem max. - Cluster 5: nan
+Raucher_ehem min. - Cluster 5: nan
+Raucher_ehem med. - Cluster 5: nan
+Raucher_ehem mean - Cluster 5: nan
+
+-----------------------------------
+Raucher_aktiv max. - Cluster 0: 0.0
+Raucher_aktiv min. - Cluster 0: 0.0
+Raucher_aktiv med. - Cluster 0: 0.0
+Raucher_aktiv mean - Cluster 0: 0.0
+
+Raucher_aktiv max. - Cluster 1: 0.0
+Raucher_aktiv min. - Cluster 1: 0.0
+Raucher_aktiv med. - Cluster 1: 0.0
+Raucher_aktiv mean - Cluster 1: 0.0
+
+Raucher_aktiv max. - Cluster 2: 1.0
+Raucher_aktiv min. - Cluster 2: 1.0
+Raucher_aktiv med. - Cluster 2: 1.0
+Raucher_aktiv mean - Cluster 2: 1.0
+
+Raucher_aktiv max. - Cluster 3: nan
+Raucher_aktiv min. - Cluster 3: nan
+Raucher_aktiv med. - Cluster 3: nan
+Raucher_aktiv mean - Cluster 3: nan
+
+Raucher_aktiv max. - Cluster 4: nan
+Raucher_aktiv min. - Cluster 4: nan
+Raucher_aktiv med. - Cluster 4: nan
+Raucher_aktiv mean - Cluster 4: nan
+
+Raucher_aktiv max. - Cluster 5: nan
+Raucher_aktiv min. - Cluster 5: nan
+Raucher_aktiv med. - Cluster 5: nan
+Raucher_aktiv mean - Cluster 5: nan
+
+-----------------------------------
+Cluster max. - Cluster 0: 0
+Cluster min. - Cluster 0: 0
+Cluster med. - Cluster 0: 0.0
+Cluster mean - Cluster 0: 0.0
+
+Cluster max. - Cluster 1: 1
+Cluster min. - Cluster 1: 1
+Cluster med. - Cluster 1: 1.0
+Cluster mean - Cluster 1: 1.0
+
+Cluster max. - Cluster 2: 2
+Cluster min. - Cluster 2: 2
+Cluster med. - Cluster 2: 2.0
+Cluster mean - Cluster 2: 2.0
+
+Cluster max. - Cluster 3: nan
+Cluster min. - Cluster 3: nan
+Cluster med. - Cluster 3: nan
+Cluster mean - Cluster 3: nan
+
+Cluster max. - Cluster 4: nan
+Cluster min. - Cluster 4: nan
+Cluster med. - Cluster 4: nan
+Cluster mean - Cluster 4: nan
+
+Cluster max. - Cluster 5: nan
+Cluster min. - Cluster 5: nan
+Cluster med. - Cluster 5: nan
+Cluster mean - Cluster 5: nan

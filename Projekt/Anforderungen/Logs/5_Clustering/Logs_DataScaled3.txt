@@ -1,0 +1,350 @@
+Geschlecht max. - Cluster 0: 0.0
+Geschlecht min. - Cluster 0: 0.0
+Geschlecht med. - Cluster 0: 0.0
+Geschlecht mean - Cluster 0: 0.0
+
+Geschlecht max. - Cluster 1: 1.0
+Geschlecht min. - Cluster 1: 0.0
+Geschlecht med. - Cluster 1: 1.0
+Geschlecht mean - Cluster 1: 0.5169840445441277
+
+Geschlecht max. - Cluster 2: 1.0
+Geschlecht min. - Cluster 2: 0.0
+Geschlecht med. - Cluster 2: 1.0
+Geschlecht mean - Cluster 2: 0.9649627304390266
+
+-----------------------------------
+Alter max. - Cluster 0: 1.0
+Alter min. - Cluster 0: 0.0
+Alter med. - Cluster 0: 0.46153846153846156
+Alter mean - Cluster 0: 0.4289032458864384
+
+Alter max. - Cluster 1: 1.0
+Alter min. - Cluster 1: 0.0
+Alter med. - Cluster 1: 0.3846153846153846
+Alter mean - Cluster 1: 0.43996856538384527
+
+Alter max. - Cluster 2: 1.0
+Alter min. - Cluster 2: 0.0
+Alter med. - Cluster 2: 0.3846153846153846
+Alter mean - Cluster 2: 0.40714115675570517
+
+-----------------------------------
+Größe max. - Cluster 0: 0.75
+Größe min. - Cluster 0: 0.0
+Größe med. - Cluster 0: 0.41666666666666696
+Größe mean - Cluster 0: 0.42806387218562686
+
+Größe max. - Cluster 1: 1.0
+Größe min. - Cluster 1: 0.0
+Größe med. - Cluster 1: 0.5
+Größe mean - Cluster 1: 0.5235209262424066
+
+Größe max. - Cluster 2: 1.0
+Größe min. - Cluster 2: 0.08333333333333348
+Größe med. - Cluster 2: 0.666666666666667
+Größe mean - Cluster 2: 0.6371156114352483
+
+-----------------------------------
+Gewicht max. - Cluster 0: 0.8260869565217391
+Gewicht min. - Cluster 0: 0.043478260869565216
+Gewicht med. - Cluster 0: 0.26086956521739135
+Gewicht mean - Cluster 0: 0.28314649385701757
+
+Gewicht max. - Cluster 1: 0.9565217391304349
+Gewicht min. - Cluster 1: 0.0
+Gewicht med. - Cluster 1: 0.30434782608695654
+Gewicht mean - Cluster 1: 0.3145407380279836
+
+Gewicht max. - Cluster 2: 1.0
+Gewicht min. - Cluster 2: 0.043478260869565216
+Gewicht med. - Cluster 2: 0.39130434782608703
+Gewicht mean - Cluster 2: 0.3898972145247117
+
+-----------------------------------
+Hüftumfang max. - Cluster 0: 1.0000000000000002
+Hüftumfang min. - Cluster 0: 0.13465627214741321
+Hüftumfang med. - Cluster 0: 0.4890148830616584
+Hüftumfang mean - Cluster 0: 0.4956140032100619
+
+Hüftumfang max. - Cluster 1: 0.9355067328136074
+Hüftumfang min. - Cluster 1: 0.0
+Hüftumfang med. - Cluster 1: 0.5102763997165132
+Hüftumfang mean - Cluster 1: 0.5098750811122252
+
+Hüftumfang max. - Cluster 2: 0.9709425939050319
+Hüftumfang min. - Cluster 2: 0.1700921332388377
+Hüftumfang med. - Cluster 2: 0.5457122608079377
+Hüftumfang mean - Cluster 2: 0.5452623770143245
+
+-----------------------------------
+Systolischer Blutdruck max. - Cluster 0: 0.9999999999999999
+Systolischer Blutdruck min. - Cluster 0: 0.0
+Systolischer Blutdruck med. - Cluster 0: 0.2524271844660194
+Systolischer Blutdruck mean - Cluster 0: 0.257358776511315
+
+Systolischer Blutdruck max. - Cluster 1: 0.8203883495145631
+Systolischer Blutdruck min. - Cluster 1: 0.014563106796116498
+Systolischer Blutdruck med. - Cluster 1: 0.25728155339805825
+Systolischer Blutdruck mean - Cluster 1: 0.2660423535650281
+
+Systolischer Blutdruck max. - Cluster 2: 0.9126213592233009
+Systolischer Blutdruck min. - Cluster 2: 0.029126213592232997
+Systolischer Blutdruck med. - Cluster 2: 0.2766990291262136
+Systolischer Blutdruck mean - Cluster 2: 0.2812812370030913
+
+-----------------------------------
+Diastolischer Blutdruck max. - Cluster 0: 0.9673202614379085
+Diastolischer Blutdruck min. - Cluster 0: 0.0
+Diastolischer Blutdruck med. - Cluster 0: 0.27450980392156865
+Diastolischer Blutdruck mean - Cluster 0: 0.2783699583497072
+
+Diastolischer Blutdruck max. - Cluster 1: 1.0000000000000002
+Diastolischer Blutdruck min. - Cluster 1: 0.006535947712418305
+Diastolischer Blutdruck med. - Cluster 1: 0.28104575163398693
+Diastolischer Blutdruck mean - Cluster 1: 0.2808160954153128
+
+Diastolischer Blutdruck max. - Cluster 2: 0.9738562091503268
+Diastolischer Blutdruck min. - Cluster 2: 0.052287581699346414
+Diastolischer Blutdruck med. - Cluster 2: 0.30718954248366015
+Diastolischer Blutdruck mean - Cluster 2: 0.3022796250888639
+
+-----------------------------------
+Nüchterner Blutzucker max. - Cluster 0: 0.7158403869407497
+Nüchterner Blutzucker min. - Cluster 0: 0.013301088270858522
+Nüchterner Blutzucker med. - Cluster 0: 0.0834340991535671
+Nüchterner Blutzucker mean - Cluster 0: 0.08779448920826442
+
+Nüchterner Blutzucker max. - Cluster 1: 1.0
+Nüchterner Blutzucker min. - Cluster 1: 0.0
+Nüchterner Blutzucker med. - Cluster 1: 0.08464328899637243
+Nüchterner Blutzucker mean - Cluster 1: 0.08963219043859218
+
+Nüchterner Blutzucker max. - Cluster 2: 0.9383313180169287
+Nüchterner Blutzucker min. - Cluster 2: 0.0060459492140266
+Nüchterner Blutzucker med. - Cluster 2: 0.08827085852478839
+Nüchterner Blutzucker mean - Cluster 2: 0.0953736786113049
+
+-----------------------------------
+Totale Cholesterin max. - Cluster 0: 0.9360414866032843
+Totale Cholesterin min. - Cluster 0: 0.00648228176318064
+Totale Cholesterin med. - Cluster 0: 0.07216940363007779
+Totale Cholesterin mean - Cluster 0: 0.07315584991204156
+
+Totale Cholesterin max. - Cluster 1: 0.8712186689714779
+Totale Cholesterin min. - Cluster 1: 0.010371650821089023
+Totale Cholesterin med. - Cluster 1: 0.0687121866897148
+Totale Cholesterin mean - Cluster 1: 0.06965494480280414
+
+Totale Cholesterin max. - Cluster 2: 1.0
+Totale Cholesterin min. - Cluster 2: 0.0
+Totale Cholesterin med. - Cluster 2: 0.07130509939498703
+Totale Cholesterin mean - Cluster 2: 0.07206005817683829
+
+-----------------------------------
+HDL_Cholesterin max. - Cluster 0: 0.8540772532188842
+HDL_Cholesterin min. - Cluster 0: 0.0
+HDL_Cholesterin med. - Cluster 0: 0.06330472103004292
+HDL_Cholesterin mean - Cluster 0: 0.06435795490000538
+
+HDL_Cholesterin max. - Cluster 1: 1.0
+HDL_Cholesterin min. - Cluster 1: 0.0
+HDL_Cholesterin med. - Cluster 1: 0.05793991416309013
+HDL_Cholesterin mean - Cluster 1: 0.06020154589722588
+
+HDL_Cholesterin max. - Cluster 2: 0.7467811158798283
+HDL_Cholesterin min. - Cluster 2: 0.0
+HDL_Cholesterin med. - Cluster 2: 0.05472103004291846
+HDL_Cholesterin mean - Cluster 2: 0.05637153798159962
+
+-----------------------------------
+LDL_Cholesterin max. - Cluster 0: 0.9378606302707502
+LDL_Cholesterin min. - Cluster 0: 0.0
+LDL_Cholesterin med. - Cluster 0: 0.05015534842432313
+LDL_Cholesterin mean - Cluster 0: 0.051187514841836305
+
+LDL_Cholesterin max. - Cluster 1: 0.8988015978695073
+LDL_Cholesterin min. - Cluster 1: 0.0
+LDL_Cholesterin med. - Cluster 1: 0.04749223257878384
+LDL_Cholesterin mean - Cluster 1: 0.048628102134069415
+
+LDL_Cholesterin max. - Cluster 2: 1.0
+LDL_Cholesterin min. - Cluster 2: 0.0
+LDL_Cholesterin med. - Cluster 2: 0.0492676431424767
+LDL_Cholesterin mean - Cluster 2: 0.04962341845187702
+
+-----------------------------------
+Triglycerid max. - Cluster 0: 0.8792134831460674
+Triglycerid min. - Cluster 0: 0.0
+Triglycerid med. - Cluster 0: 0.03230337078651685
+Triglycerid mean - Cluster 0: 0.03841107617542257
+
+Triglycerid max. - Cluster 1: 0.964185393258427
+Triglycerid min. - Cluster 1: 0.0
+Triglycerid med. - Cluster 1: 0.03441011235955056
+Triglycerid mean - Cluster 1: 0.04165424487579426
+
+Triglycerid max. - Cluster 2: 1.0
+Triglycerid min. - Cluster 2: 0.0
+Triglycerid med. - Cluster 2: 0.0449438202247191
+Triglycerid mean - Cluster 2: 0.05616396957808526
+
+-----------------------------------
+Hämoglobin max. - Cluster 0: 0.8583333333333334
+Hämoglobin min. - Cluster 0: 0.0
+Hämoglobin med. - Cluster 0: 0.5083333333333333
+Hämoglobin mean - Cluster 0: 0.5052623734421632
+
+Hämoglobin max. - Cluster 1: 0.9999999999999999
+Hämoglobin min. - Cluster 1: 0.0
+Hämoglobin med. - Cluster 1: 0.5458333333333333
+Hämoglobin mean - Cluster 1: 0.5455028865283413
+
+Hämoglobin max. - Cluster 2: 0.9541666666666666
+Hämoglobin min. - Cluster 2: 0.12916666666666665
+Hämoglobin med. - Cluster 2: 0.5958333333333333
+Hämoglobin mean - Cluster 2: 0.5931634688976639
+
+-----------------------------------
+SGOT_AST max. - Cluster 0: 0.9448897795591182
+SGOT_AST min. - Cluster 0: 0.0
+SGOT_AST med. - Cluster 0: 0.020040080160320637
+SGOT_AST mean - Cluster 0: 0.022864791836478292
+
+SGOT_AST max. - Cluster 1: 0.9799599198396793
+SGOT_AST min. - Cluster 1: 0.0
+SGOT_AST med. - Cluster 1: 0.02104208416833667
+SGOT_AST mean - Cluster 1: 0.024173422647492598
+
+SGOT_AST max. - Cluster 2: 0.9999999999999999
+SGOT_AST min. - Cluster 2: 0.0
+SGOT_AST med. - Cluster 2: 0.023046092184368733
+SGOT_AST mean - Cluster 2: 0.0272670815820251
+
+-----------------------------------
+SGOT_ALT max. - Cluster 0: 0.9869739478957915
+SGOT_ALT min. - Cluster 0: 0.0
+SGOT_ALT med. - Cluster 0: 0.01603206412825651
+SGOT_ALT mean - Cluster 0: 0.020227139192246994
+
+SGOT_ALT max. - Cluster 1: 0.938877755511022
+SGOT_ALT min. - Cluster 1: 0.0
+SGOT_ALT med. - Cluster 1: 0.018036072144288574
+SGOT_ALT mean - Cluster 1: 0.02345327015292979
+
+SGOT_ALT max. - Cluster 2: 0.9999999999999999
+SGOT_ALT min. - Cluster 2: 0.0
+SGOT_ALT med. - Cluster 2: 0.023046092184368733
+SGOT_ALT mean - Cluster 2: 0.029409613423443812
+
+-----------------------------------
+gamma_GTP max. - Cluster 0: 0.99197592778335
+gamma_GTP min. - Cluster 0: 0.0
+gamma_GTP med. - Cluster 0: 0.0160481444332999
+gamma_GTP mean - Cluster 0: 0.022780198238587436
+
+gamma_GTP max. - Cluster 1: 0.9999999999999999
+gamma_GTP min. - Cluster 1: 0.0
+gamma_GTP med. - Cluster 1: 0.01905717151454363
+gamma_GTP mean - Cluster 1: 0.028193200887629822
+
+gamma_GTP max. - Cluster 2: 0.9989969909729187
+gamma_GTP min. - Cluster 2: 0.0
+gamma_GTP med. - Cluster 2: 0.03510531594784353
+gamma_GTP mean - Cluster 2: 0.05392092487503105
+
+-----------------------------------
+Trinker max. - Cluster 0: 1.0
+Trinker min. - Cluster 0: 0.0
+Trinker med. - Cluster 0: 0.0
+Trinker mean - Cluster 0: 0.21188564468369583
+
+Trinker max. - Cluster 1: 1.0
+Trinker min. - Cluster 1: 0.0
+Trinker med. - Cluster 1: 0.0
+Trinker mean - Cluster 1: 0.36682750756571214
+
+Trinker max. - Cluster 2: 1.0
+Trinker min. - Cluster 2: 0.0
+Trinker med. - Cluster 2: 1.0
+Trinker mean - Cluster 2: 0.8547956829425206
+
+-----------------------------------
+Body-Mass-Index max. - Cluster 0: 0.9509331727874774
+Body-Mass-Index min. - Cluster 0: 0.03552077062010839
+Body-Mass-Index med. - Cluster 0: 0.3296207104154124
+Body-Mass-Index mean - Cluster 0: 0.34006882105661745
+
+Body-Mass-Index max. - Cluster 1: 0.9780252859723059
+Body-Mass-Index min. - Cluster 1: 0.0
+Body-Mass-Index med. - Cluster 1: 0.31306441902468396
+Body-Mass-Index mean - Cluster 1: 0.32521867294918616
+
+Body-Mass-Index max. - Cluster 2: 1.0
+Body-Mass-Index min. - Cluster 2: 0.03552077062010839
+Body-Mass-Index med. - Cluster 2: 0.3531005418422637
+Body-Mass-Index mean - Cluster 2: 0.3650039763387278
+
+-----------------------------------
+Raucher_nie max. - Cluster 0: 1.0
+Raucher_nie min. - Cluster 0: 0.0
+Raucher_nie med. - Cluster 0: 1.0
+Raucher_nie mean - Cluster 0: 0.9999474984774559
+
+Raucher_nie max. - Cluster 1: 1.0
+Raucher_nie min. - Cluster 1: 0.0
+Raucher_nie med. - Cluster 1: 1.0
+Raucher_nie mean - Cluster 1: 0.8127475358845427
+
+Raucher_nie max. - Cluster 2: 1.0
+Raucher_nie min. - Cluster 2: 0.0
+Raucher_nie med. - Cluster 2: 0.0
+Raucher_nie mean - Cluster 2: 0.10121292455132329
+
+-----------------------------------
+Raucher_ehem max. - Cluster 0: 1.0
+Raucher_ehem min. - Cluster 0: 0.0
+Raucher_ehem med. - Cluster 0: 0.0
+Raucher_ehem mean - Cluster 0: 5.250152254415378e-05
+
+Raucher_ehem max. - Cluster 1: 1.0
+Raucher_ehem min. - Cluster 1: 0.0
+Raucher_ehem med. - Cluster 1: 0.0
+Raucher_ehem mean - Cluster 1: 0.1579848366589583
+
+Raucher_ehem max. - Cluster 2: 1.0
+Raucher_ehem min. - Cluster 2: 0.0
+Raucher_ehem med. - Cluster 2: 0.0
+Raucher_ehem mean - Cluster 2: 0.3339147458792732
+
+-----------------------------------
+Raucher_aktiv max. - Cluster 0: 0.0
+Raucher_aktiv min. - Cluster 0: 0.0
+Raucher_aktiv med. - Cluster 0: 0.0
+Raucher_aktiv mean - Cluster 0: 0.0
+
+Raucher_aktiv max. - Cluster 1: 1.0
+Raucher_aktiv min. - Cluster 1: 0.0
+Raucher_aktiv med. - Cluster 1: 0.0
+Raucher_aktiv mean - Cluster 1: 0.029267627456498968
+
+Raucher_aktiv max. - Cluster 2: 1.0
+Raucher_aktiv min. - Cluster 2: 0.0
+Raucher_aktiv med. - Cluster 2: 1.0
+Raucher_aktiv mean - Cluster 2: 0.5648723295694035
+
+-----------------------------------
+Cluster max. - Cluster 0: 0
+Cluster min. - Cluster 0: 0
+Cluster med. - Cluster 0: 0.0
+Cluster mean - Cluster 0: 0.0
+
+Cluster max. - Cluster 1: 1
+Cluster min. - Cluster 1: 1
+Cluster med. - Cluster 1: 1.0
+Cluster mean - Cluster 1: 1.0
+
+Cluster max. - Cluster 2: 2
+Cluster min. - Cluster 2: 2
+Cluster med. - Cluster 2: 2.0
+Cluster mean - Cluster 2: 2.0
