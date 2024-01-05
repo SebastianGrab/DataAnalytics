@@ -6,6 +6,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
 import seaborn as sns
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 
 
 def get_file_path():
@@ -138,3 +139,19 @@ def cluster_analytics(df, clusterNo):
             print(column + " mean - Cluster " + str(i) + ": " + str(dataset[column].mean()))
             print('')
         print('-'*35)
+
+# Funktion um Over-, Underfitting mittels LErnkurven zu überprüfen
+
+def plot_learning_curves(model, X_train,y_train, X_dev, y_dev):
+    train_fs, dev_fs = [], []
+    for m in range(100, X_train.shape[0],100):
+        model.fit(X_train[:m], y_train[:m])
+        y_train_predict = model.predict(X_train[:m])
+        y_dev_predict = model.predict(X_dev)
+        train_fs.append(f1_score(y_train[:m], y_train_predict,average='weighted'))
+        dev_fs.append(f1_score(y_dev, y_dev_predict, average='weighted'))
+    plt.plot(train_fs, "r-+", linewidth=2, label="train")
+    plt.plot(dev_fs, "b-", linewidth=3, label="dev")
+    plt.legend()
+    plt.xlabel('Index der Trainingsiteration')
+    plt.ylabel('F-Score des Lerners')
