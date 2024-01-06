@@ -140,16 +140,19 @@ def cluster_analytics(df, clusterNo):
             print('')
         print('-'*35)
 
-# Funktion um Over-, Underfitting mittels LErnkurven zu überprüfen
 
-def plot_learning_curves(model, X_train,y_train, X_dev, y_dev):
+
+# Funktion um Over-, Underfitting mittels Lernkurven zu überprüfen:
+
+def plot_learning_curves(model, X_train,y_train, X_dev, y_dev, steps):
     train_fs, dev_fs = [], []
-    for m in range(100, X_train.shape[0],100):
+    for m in range(steps, X_train.shape[0], steps):
         model.fit(X_train[:m], y_train[:m])
         y_train_predict = model.predict(X_train[:m])
         y_dev_predict = model.predict(X_dev)
         train_fs.append(f1_score(y_train[:m], y_train_predict,average='weighted'))
         dev_fs.append(f1_score(y_dev, y_dev_predict, average='weighted'))
+        print("Anteil Schritte: " + str(round((m / len(X_train)) / 100, 2)) + " %")
     plt.plot(train_fs, "r-+", linewidth=2, label="train")
     plt.plot(dev_fs, "b-", linewidth=3, label="dev")
     plt.legend()
