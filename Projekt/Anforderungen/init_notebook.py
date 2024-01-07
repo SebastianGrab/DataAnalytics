@@ -152,6 +152,7 @@ def plot_learning_curves(model, X_train,y_train, X_dev, y_dev, steps):
         y_dev_predict = model.predict(X_dev)
         train_fs.append(f1_score(y_train[:m], y_train_predict,average='weighted'))
         dev_fs.append(f1_score(y_dev, y_dev_predict, average='weighted'))
+        print('Execution: ' + str(round(m / X_train.shape[0] * 100, 3)) + ' %')
     plt.plot(train_fs, "r-+", linewidth=2, label="train")
     plt.plot(dev_fs, "b-", linewidth=3, label="dev")
     plt.legend()
