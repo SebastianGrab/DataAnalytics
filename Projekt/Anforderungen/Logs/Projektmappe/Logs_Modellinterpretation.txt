@@ -1,0 +1,14 @@
+- Features --------------
+['Geschlecht' 'Alter' 'Größe' 'Gewicht' 'Hüftumfang' 'Triglycerid'
+ 'Hämoglobin' 'gamma_GTP' 'Trinker']
+
+- Feature Koeffizienten --------------
+[[ 1.56650066e+00 -1.31864150e-04 -8.04792298e-03  6.76444109e-03
+  -8.77231921e-03  9.19050040e-04  2.13809416e-02  1.76930935e-03
+   4.50575431e-01]]
+
+- Klassen --------------
+[1. 2.]
+
+- Intercept --------------
+[-0.15999769]
